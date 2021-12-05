@@ -1,0 +1,26 @@
+.slds-modal__container {
+    width: 60% !important;
+    max-width: 100rem !important;
+    padding-top: 12rem !important;
+}
+.slds-input{
+  width: 60% !important;
+}
+.comboboxWidth{
+  width: 50% !important;
+}
+.inputBoxWidth{
+  width: 53% !important;
+  max-width: 50rem !important;
+}
+.slds-input-has-icon_left-right .slds-input, .slds-input-has-icon_left-right .slds-input_bare, .slds-input-has-icon_left-right .slds-input--bare, .slds-input-has-icon--left-right .slds-input, .slds-input-has-icon--left-right .slds-input_bare, .slds-input-has-icon--left-right .slds-input--bare {
+  padding-left: var(--lwc-spacingXxxLarge,8rem);
+  padding-right: var(--lwc-spacingXxxLarge,8rem);
+}
+.slds-button_reset, .slds-button--reset{
+  font-size: large !important;
+}
+.accordionFont{
+  --sds-c-accordion-heading-font-size : 1.3em;
+  --sds-c-accordion-summary-color-background: #ec9042c4;
+}
